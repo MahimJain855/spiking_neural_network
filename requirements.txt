@@ -1,4 +1,4 @@
-torch~=1.10.0+cu113
+torch==1.10.0
 numpy~=1.19.5
 logging~=0.4.9.6
 argparse~=1.4.0
